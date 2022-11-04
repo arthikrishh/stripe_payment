@@ -11,7 +11,7 @@ we'll be creating a payment app using flutter firebase cloud functions and strip
 first, let's get over some requirements to make this app. we need a firebase place plan to make external calls to stripe. we need a stripe account with the API keys and lastly, we'll need node.js to make our server-side functions.
 
 
-## Here is a small demo on how the app works 
+## Here is a Small Demo on How the App Works 
 
 <img width="819" alt="Screenshot 2022-11-05 at 12 51 47 AM" src="https://user-images.githubusercontent.com/116914004/200068793-80ed44a1-845e-4150-9ee2-4776ae8effbb.png">
 
