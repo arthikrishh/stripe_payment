@@ -15,5 +15,4 @@ first, let's get over some requirements to make this app. we need a firebase pla
 
 <img width="819" alt="Screenshot 2022-11-05 at 12 51 47 AM" src="https://user-images.githubusercontent.com/116914004/200068793-80ed44a1-845e-4150-9ee2-4776ae8effbb.png">
 
-## Video 
 
