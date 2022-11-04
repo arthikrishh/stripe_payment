@@ -36,7 +36,7 @@ class PaymentPage extends StatelessWidget {
         // 1. create payment intent on the server
         final response = await http.post(
             Uri.parse(
-                'https://us-central1-stripe-8bd34.cloudfunctions.net/stripePaymentIntentRequest'),
+                'your firebase function URL here'),
             body: {
               'email': email,
               'amount': amount.toString(),
