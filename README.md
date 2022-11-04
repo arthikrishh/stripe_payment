@@ -1,10 +1,10 @@
 # flutter_stripe_payment
 
+<img width="765" alt="Screenshot 2022-11-04 at 5 41 36 PM" src="https://user-images.githubusercontent.com/116914004/200068435-3d99d553-e24b-4512-a5cd-74aee766f920.png">
+
 ## Getting Started
 
 flutter stripe payment integration.
-
-<img width="765" alt="Screenshot 2022-11-04 at 5 41 36 PM" src="https://user-images.githubusercontent.com/116914004/200068435-3d99d553-e24b-4512-a5cd-74aee766f920.png">
 
 we'll be creating a payment app using flutter firebase cloud functions and stripe.
 
