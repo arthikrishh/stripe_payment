@@ -26,7 +26,7 @@ To get started with this project, follow these steps:
 2. Navigate into the project directory:
 
     ```bash
-    cd flutter-stripe-payment
+    cd stripe_payment
     ```
 
 3. Replace the placeholders with your Stripe publishable key and Firebase function URL in `main.dart`.
